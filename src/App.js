@@ -7,6 +7,8 @@ import {
 import HomePage from "./pages/home-page";
 import Signup from "./pages/signup";
 import Login from "./pages/login";
+import Search from "./components/search";
+import Search2 from "./components/search2";
 import { useEffect } from "react";
 
 function App() {
@@ -58,6 +60,8 @@ function App() {
       <Route path="/" element={<HomePage />} />
       <Route path="/signup" element={<Signup />} />
       <Route path="/login" element={<Login />} />
+      <Route path="/search" element={<Search />} />
+      <Route path="/search2" element={<Search2 />} />
     </Routes>
   );
 }
