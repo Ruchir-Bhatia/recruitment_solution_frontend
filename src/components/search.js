@@ -840,7 +840,7 @@ const Search = memo(() => {
             height: 632.38px;
           `}
           alt=""
-          src="/group-11.svg"
+          src="imageherro@2x.png"
         />
       </div>
     </div>
