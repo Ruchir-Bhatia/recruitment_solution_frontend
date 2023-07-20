@@ -317,7 +317,7 @@ const Login = () => {
             variant="contained"
             color="secondary"
             size="large"
-            href="/search"
+            href="./components/search"
           >
             Login
           </Button>
