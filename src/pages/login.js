@@ -81,7 +81,7 @@ const Login = () => {
             object-fit: cover;
           `}
           alt=""
-          src="/rectangle-44@2x.png"
+          src="public/rectangle-41@2x.png"
         />
         <img
           className={css`
